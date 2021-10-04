@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.NoBrowser": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.multiRootWorkspaceName": "http://localhost/Examen/",
+    "liveServer.settings.useBrowserPreview": true
+}
